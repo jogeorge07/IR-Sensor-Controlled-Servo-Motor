@@ -32,12 +32,7 @@ A simple Arduino project demonstrating how to control an **SG90 servo motor** us
 
 > ⚠️ Some IR sensors may have inverted logic. If the servo moves opposite, swap the angles in the code.
 
----
 
-## 💻 Arduino Code
-
-The Arduino sketch is in the `Arduino_Code` folder:  
-`IR_Sensor_Servo_Control.ino`
 
 **How it works:**
 1. The IR sensor detects objects near it.
@@ -45,12 +40,6 @@ The Arduino sketch is in the `Arduino_Code` folder:
 3. If an object is detected, the servo rotates to 180°.
 4. When the object is removed, the servo returns to 0°.
 
----
-
-## 🎥 Demo
-![Demo GIF or Screenshot](demo/ir_servo_demo.gif)  
-
----
 
 ## ⚡ Features
 - Real-time servo movement based on object detection.
