@@ -49,7 +49,6 @@ The Arduino sketch is in the `Arduino_Code` folder:
 
 ## 🎥 Demo
 ![Demo GIF or Screenshot](demo/ir_servo_demo.gif)  
-*(Optional: Include your video in the `demo/` folder or a GIF for GitHub preview)*
 
 ---
 
@@ -58,6 +57,3 @@ The Arduino sketch is in the `Arduino_Code` folder:
 - Simple and reliable IR detection logic.
 - Beginner-friendly Arduino project for learning sensors and actuators.
 
----
-
-by : ABINA ABEY
